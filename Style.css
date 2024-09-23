@@ -1,0 +1,123 @@
+.Text1 {
+        width: 500px;
+        height:150px;
+        margin-left:20px;
+
+        transition:3s;
+
+    }
+    .Text1:hover{
+        background:#4B0082;
+        width:500px;
+        height:200px;
+        color:white;
+        transform: scale(1.2);
+        margin-left: 50px;
+    }
+    .Text2 {
+        
+        width: 800;
+        height:100px;
+        margin-left:20px;
+        margin-top:5px;
+        transition:3s;
+    }
+    .Text2:hover {
+        background:#4B0082;
+        height:100px;
+        width:600px;
+        color:white;
+        transform: scale(1.2);
+
+    }
+    .button{ 
+        background:gray;
+        color:white;
+        height:30px;
+        width:100px;
+        margin-left:850px;
+       
+        transition:2s;
+
+    }
+    .button:hover{
+        background:#C0C0C0;
+        height:30px;
+        width:100px;
+        margin-trim:30px;
+        
+
+    }
+    .Text3{
+        color:white;
+        width: 350;
+        height:300px;
+        margin-left:20px;
+        margin-top:290px;
+        transition:2s;
+    }
+       .Text3:hover{
+
+         background:#4B0082;
+         color:white;
+         width: 350;
+         height:300px;
+     }
+
+
+    .Title{
+        background:#191970;
+        height: 100%;
+        width:100%;
+        border-radius: 15px;
+    }
+
+    .links{
+        background:blue;
+        height:50px;
+        width: 1450px;
+        margin-left:140px;
+    }
+
+    .Li{
+        color:white;
+        margin-left:20px;
+        text-decoration: none;
+    }
+
+
+    .Imput{
+        height:50px; 
+        border-radius: 20px;
+        width:300px;
+        margin-left:90px;
+    }
+
+    .HeadBlock{
+        display:flex;
+        margin-left:110px;
+        margin-top:10px;
+    }
+
+    .JaneB{
+        background:url(Dou.jpg);
+        background-size: 100% 100%;
+        ;height: 750px;
+        width:1000px;
+        margin-left:33px;
+        margin-top:20px;
+    }
+
+    .name{
+        width: 150;
+        margin-left:20px;
+        margin-top:280px
+    }
+    .Set{
+        background:url(Set.jpg);
+        background-size: 100% 100%;
+        height: 700px;
+        width:400px;
+        margin-left:40px;
+         margin-top:20px;
+    }
